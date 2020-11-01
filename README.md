@@ -31,3 +31,6 @@ import Center from "svelte-styles";
   </Center>
 </container>
 ```
+## More
+Want help or contribute to the project, get help or see what every components do ?
+https://discord.gg/MdVdyzRNR7
